@@ -36,3 +36,15 @@ ul li{
     background-position: center;
     background-size: cover;
 }
+p{
+    font-size: 30px;
+    margin: 18px 0;
+    color:gray;
+}
+.about{
+    height:500px
+}
+.working{
+    padding: 6%;
+    margin: 3%; 
+}
