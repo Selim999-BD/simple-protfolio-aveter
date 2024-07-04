@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+#top-position{
+    font-size: 70px;
+    color:gray;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 46px;
+    margin: 34px 0;
+}
+ul{
+    margin-left: 40px;
+    font-size: 23px;
+}
+ul li{
+    margin:7px 0;
+    color:gray;
+}
+.left-width{
+    padding-left: 6%;
+    margin-left: 3%;
+    width:33%;
+    float: left;
+}
+.right-width img{
+    margin-top: 50px;
+}
+.header{
+    height:400px;
+    background-image: url("../images/home.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
